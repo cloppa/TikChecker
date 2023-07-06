@@ -1,7 +1,7 @@
 
 # TikChecker
 
-This is a simple proxyless TikTok username checker that can be deployed on Windows, Mac, Linux etc.
+This is a simple proxyless TikTok username checker that can be deployed on Windows systems
 
 ## Deployment
 
@@ -11,7 +11,7 @@ To deploy this project
  pip install -r requirements.txt
 ```
 ```bash
-run the build.exe file to install extra dependencies (windows only)
+run the build.exe file to install extra dependencies
  ```
  ```bash
  create a .txt file named usernames in the TikChecker directory
@@ -27,7 +27,6 @@ run the build.exe file to install extra dependencies (windows only)
 
 - Proxyless
 - Easy to deploy
-- Supported on all platforms
 - 100% accurate
 
 ## Authors
