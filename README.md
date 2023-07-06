@@ -8,11 +8,11 @@ This is a simple proxyless TikTok username checker that can be deployed on Windo
 To deploy this project
 
 ```bash
-run the build.exe file
+ pip install -r requirements.txt
 ```
 ```bash
- pip install -r requirements.txt
- ````
+run the build.exe file to install extra dependencies (windows only)
+ ```
  ```bash
  create a .txt file named usernames in the TikChecker directory
  ```
